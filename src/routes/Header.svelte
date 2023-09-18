@@ -26,8 +26,8 @@
 				<a href="/sverdle">Sverdle</a>
 			</li>
 
-			<li aria-current={$page.url.pathname.startsWith('/sinnergix') ? 'page' : undefined}>
-				<a href="/sinnergix">sinnergix</a>
+			<li aria-current={$page.url.pathname.startsWith('/hiroshima') ? 'page' : undefined}>
+				<a href="/hiroshima">hiroshima</a>
 			</li>
 
 		</ul>

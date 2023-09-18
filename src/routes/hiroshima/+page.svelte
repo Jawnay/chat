@@ -24,7 +24,7 @@
 	<h1>This man is a monkey!</h1>
 
 	<p>
-		<stronger>Sinnergix</stronger>
+		<stronger>Brendan Hiroshima</stronger>
 	</p>
 
 	<h1>
